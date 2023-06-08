@@ -1,0 +1,40 @@
+/* .container {
+	min-height: 100vh;
+	background-color: black;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.app {
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: black;
+	height: 304px;
+	width: 300px;
+	margin-top: 30px;
+}
+
+.blocks {
+	text-align: center;
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: white;
+}
+
+.updateField {
+	height: 30px;
+	width: 200px;
+	margin-top: 30px;
+}
+
+.info {
+	height: 50px;
+	width: 300px;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+} */
